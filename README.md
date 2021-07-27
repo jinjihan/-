@@ -7,8 +7,8 @@
 name: 이슈 리포트
 about: 이슈에 대한 리포트 보고
 title: ''
-labels: bug
-assignees: melong0124
+labels: 에러
+assignees: 하은
 
 ---
 
